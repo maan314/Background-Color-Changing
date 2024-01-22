@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    justify-content: safe;
+    padding: 8px;
+    padding-top: 5px;
+    background-color: rgb(10, 11, 11);
+
+
+}
+#hm{
+    padding: 5px;
+    padding-top: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    background-color: rgb(16, 179, 138);
+
+}
+
+#start{
+    background-color: rgb(2, 250, 2);
+    height: 34px;
+    width: 60px;
+    color: white;
+    border-radius: 13px;
+}
+
+#stop{
+    background-color: rgb(255, 0, 0);
+    height: 34px;
+    width: 60px;
+    color: white;
+    border-radius: 13px;
+}
